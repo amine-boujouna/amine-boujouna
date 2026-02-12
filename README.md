@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Boujouna Amine
 
-💻 Java Full Stack Developer | Spring Boot | Angular  
+💻 Software Engineer 👨‍💻 |  IT Trainer @IAHF 👨‍🏫 |  Java & Spring ☕🌱| Angular  
 🚀 Passionate about clean code & scalable systems  
 
 ---
