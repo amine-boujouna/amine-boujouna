@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**amine-boujouna/amine-boujouna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Boujouna Amine
 
-Here are some ideas to get you started:
+💻 Java Full Stack Developer | Spring Boot | Angular  
+🚀 Passionate about clean code & scalable systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Software Engineer from Tunisia  
+- 👨‍🏫 Java & Programming Instructor  
+- 🌱 Improving my skills in Java & Cloud  
+- 🔍 Interested in Backend & Microservices  
+- 💼 Open to job opportunities  
+ 
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend
+- ☕ Java | Spring Boot | Hibernate | JPA  
+
+### 🔹 Frontend
+- 🅰️ Angular | TypeScript | HTML | CSS  
+
+### 🔹 Database
+- 🗄️ MySQL | PostgreSQL | MongoDB  
+
+### 🔹 Tools
+- 🐳 Docker | Git | GitHub | Jenkins | Maven  
+
+---
+
+## 📂 Projects
+
+🚀 Some of my projects:
+- 📌 GED  
+- 📌 School Management System  
+- 📌 E-Commerce Platform  
+- 📌 REST API Platform  
+
+---
+
+## 🤝 Contact
+
+- 💼 LinkedIn: www.linkedin.com/in/boujouna-amine-71a4b7171
+
+- 📧 Email: amine.boujouna@esprit.tn
